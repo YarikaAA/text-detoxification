@@ -1,0 +1,10 @@
+pandas
+matplotlib
+numpy
+scikit-learn
+nltk
+detoxify
+sentence-transformers
+torch
+tqdm
+transformers
